@@ -1,0 +1,5 @@
+inoremap jj <ESC>
+nnoremap <s-t> :CtrlP<CR>
+let g:SuperTabNoCompleteAfter = ['^',',','\s',';']
+
+
